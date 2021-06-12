@@ -41,3 +41,9 @@ MMRMMRMRRM
 
 ### Solution
 [Mars Rover](https://github.com/nikingale/low-level-design/tree/main/src/main/java/com/github/nikingale/marsrover)
+
+---
+
+## 2. Snakes and Ladders
+### Problem
+Design a Snakes and Ladders game application
