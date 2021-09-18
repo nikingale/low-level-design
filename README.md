@@ -50,3 +50,7 @@ Design a Snakes and Ladders game application
 
 ### Solution
 [Snakes and Ladders](https://github.com/nikingale/low-level-design/tree/main/src/main/java/com/github/nikingale/snakesladders)
+
+---
+
+## 3. Train Ticketing System
